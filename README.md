@@ -11,6 +11,11 @@ This application and library is under the Mozilla Public License, v. 2.0
 
 Johannes Heinecke
 
+## Compiling
+
+just run `mvn install` in the main directory
+
+
 ## Run
 
     java -jar Sudoku.jar [--size {2|3|4|5}] [[--text] [<file>]
